@@ -10,5 +10,55 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "orders":[
+  {
+        key: "1",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Delivered",
+      },
+      {
+        key: "2",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Cancelled",
+      },
+      {
+        key: "3",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Delivered",
+      },
+      {
+        key: "4",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Pending",
+      },
+      {
+        key: "5",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Enroute",
+      },
+      {
+        key: "6",
+        id: "#658901",
+        date: "June 5th, 2021",
+        amount:
+        "N 2,300",
+        status: "Delivered",
+      }
+  ]
 }
