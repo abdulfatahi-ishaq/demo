@@ -13,52 +13,51 @@
   },
   "orders":[
   {
-        key: "1",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "1",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Delivered",
+        "status": "Delivered",
       },
       {
-        key: "2",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "2",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Cancelled",
+        "status": "Cancelled",
       },
       {
-        key: "3",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "3",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Delivered",
+        "status": "Delivered",
       },
       {
-        key: "4",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "4",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Pending",
+        "status": "Pending",
       },
       {
-        key: "5",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "5",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Enroute",
+        "status": "Enroute",
       },
       {
-        key: "6",
-        id: "#658901",
-        date: "June 5th, 2021",
-        amount:
+        "key": "6",
+        "id": "#658901",
+        "date": "June 5th, 2021",
+        "amount":
         "N 2,300",
-        status: "Delivered",
-      }
-  ]
+        "status": "Delivered",
+      }  ]
 }
